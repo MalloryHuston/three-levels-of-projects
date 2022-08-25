@@ -1,6 +1,6 @@
 # 3 Levels of Portfolio Projects
 
-This is a compilation of the three different types of portfolio projects you can create. The explanation for the different types are contained in [Andy Sterk's](https://youtu.be/RYE0QQKJI9o) and [Tech With Tim's](https://www.youtube.com/watch?v=HvjYxuU6LHk) YouTube videos.
+This is a compilation of the three different types of portfolio projects you can create. The explanation for the different types are contained in [Andy Sterks'](https://youtu.be/RYE0QQKJI9o) and [Tech With Tim's](https://www.youtube.com/watch?v=HvjYxuU6LHk) YouTube videos.
 
 ![Three levels of portfolio projects pyramid](three-levels-pyramid.png)
 
